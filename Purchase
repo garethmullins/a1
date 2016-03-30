@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Home</title>
+        <meta charset="utf-8">
+    </head>
+    <h1>Purchase</h1>
+    <p>
+        It worked.
+    </p>
+    <br>
+    <a href="Home">Home</a>
+    </body>
+</html>

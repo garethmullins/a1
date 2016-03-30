@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Who's Who</title>
+        <meta charset="utf-8">
+    </head>
+    <h1>Who’s Who</h1>
+    <body>
+    <p>
+        The CossiPlay family is:
+        <br>
+        Steven Rogers – Steve was a Navy Seal for 37 years before getting interested in hosting parties and helping people enyoj their fantasies together in a family-friendly fun environment.
+        <br>
+        <br>
+        Sally Rogers – After only 6 weeks of her first dress-making course, Sally was already designing and sewing elaborate ball gowns and costumes that amazed her instructors. 10 years later and she’s making even more amazing creations for happy customers.
+        <br>
+        <ul>
+            <li><a href="Contact details">Contact details</a></li>
+            <li><a href="Home">Home</a></li>
+        </ul>
+    </p>
+    </body>
+</html>
