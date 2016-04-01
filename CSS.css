@@ -1,0 +1,8 @@
+body {
+    line-height: 1.25;
+    padding: 15px;
+}
+style{} table, th, td {
+        border: 1px solid #666;
+        border-collapse:collapse;
+    }
